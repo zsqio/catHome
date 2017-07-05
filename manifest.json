@@ -1,0 +1,13 @@
+{
+  orientation: "portrait",
+  display: "fullscreen",
+  icons: [
+{
+  src: "icon_200x200.png",
+  sizes: "200x200",
+  type: "image/png"
+}
+],
+  name: "CropChat",
+  description: "CropChat - Image Messenger Application"
+}
