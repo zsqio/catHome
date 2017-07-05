@@ -1,12 +1,9 @@
-<<<<<<< HEAD
+
 # catHome
 
 > A Vue.js project for cat
 =======
-# catHome
 
-> A Vue.js project for cat
->>>>>>> e782ad06a366ac59f3c8425ef145397b9a8fe5a5
 
 ## Build Setup
 
