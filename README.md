@@ -2,8 +2,6 @@
 # catHome
 ### [线上demo体验](https://zsqio.github.io/learn-cropchat-demo/index#/)
 
-> A Vue.js project for cat
-=======
 
 
 ## Build Setup
